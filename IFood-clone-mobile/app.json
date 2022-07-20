@@ -1,0 +1,27 @@
+{
+    "expo": {
+        "entryPoint": "./src/AppEntry.js",
+        "name": "ifood",
+        "slug": "ifood",
+        "version": "1.0.0",
+        "orientation": "portrait",
+        "icon": "./src/assets/imgs/icon.png",
+        "splash": {
+            "image": "./src/assets/imgs/splash.png",
+            "resizeMode": "contain",
+            "backgroundColor": "#F0001A"
+        },
+        "updates": {
+            "fallbackToCacheTimeout": 0
+        },
+        "assetBundlePatterns": [
+            "**/*"
+        ],
+        "ios": {
+            "supportsTablet": true
+        },
+        "web": {
+            "favicon": "./src/assets/imgs/favicon.png"
+        }
+    }
+}

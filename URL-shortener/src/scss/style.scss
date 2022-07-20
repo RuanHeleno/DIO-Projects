@@ -1,0 +1,27 @@
+$bgprimary: '../images/bg.jpg';
+$bgheader: lightgray;
+$bgcontent: gray;
+
+body {
+  background: url($bgprimary) no-repeat center center;
+  background-size: cover;
+  width: 100vw;
+  height: 100vh;
+  font-size: 18px !important;
+}
+
+header {
+  background-color: $bgheader !important;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+}
+
+main {
+  width: 60vw !important;
+}
+
+.main-content {
+  background-color: $bgcontent !important;
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+}

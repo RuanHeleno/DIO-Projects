@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\francisléia\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\francisléia\\.nuget\\packages"
+    ]
+  }
+}

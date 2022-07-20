@@ -1,0 +1,16 @@
+C:\Users\francisléia\Desktop\DIO\Bootcamp\ImpulsoFullstackDeveloper\C#\AbstraindoUmRPG\bin\Debug\net5.0\AbstraindoUmRPG.exe
+C:\Users\francisléia\Desktop\DIO\Bootcamp\ImpulsoFullstackDeveloper\C#\AbstraindoUmRPG\bin\Debug\net5.0\AbstraindoUmRPG.deps.json
+C:\Users\francisléia\Desktop\DIO\Bootcamp\ImpulsoFullstackDeveloper\C#\AbstraindoUmRPG\bin\Debug\net5.0\AbstraindoUmRPG.runtimeconfig.json
+C:\Users\francisléia\Desktop\DIO\Bootcamp\ImpulsoFullstackDeveloper\C#\AbstraindoUmRPG\bin\Debug\net5.0\AbstraindoUmRPG.runtimeconfig.dev.json
+C:\Users\francisléia\Desktop\DIO\Bootcamp\ImpulsoFullstackDeveloper\C#\AbstraindoUmRPG\bin\Debug\net5.0\AbstraindoUmRPG.dll
+C:\Users\francisléia\Desktop\DIO\Bootcamp\ImpulsoFullstackDeveloper\C#\AbstraindoUmRPG\bin\Debug\net5.0\ref\AbstraindoUmRPG.dll
+C:\Users\francisléia\Desktop\DIO\Bootcamp\ImpulsoFullstackDeveloper\C#\AbstraindoUmRPG\bin\Debug\net5.0\AbstraindoUmRPG.pdb
+C:\Users\francisléia\Desktop\DIO\Bootcamp\ImpulsoFullstackDeveloper\C#\AbstraindoUmRPG\obj\Debug\net5.0\AbstraindoUmRPG.csproj.AssemblyReference.cache
+C:\Users\francisléia\Desktop\DIO\Bootcamp\ImpulsoFullstackDeveloper\C#\AbstraindoUmRPG\obj\Debug\net5.0\AbstraindoUmRPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\francisléia\Desktop\DIO\Bootcamp\ImpulsoFullstackDeveloper\C#\AbstraindoUmRPG\obj\Debug\net5.0\AbstraindoUmRPG.AssemblyInfoInputs.cache
+C:\Users\francisléia\Desktop\DIO\Bootcamp\ImpulsoFullstackDeveloper\C#\AbstraindoUmRPG\obj\Debug\net5.0\AbstraindoUmRPG.AssemblyInfo.cs
+C:\Users\francisléia\Desktop\DIO\Bootcamp\ImpulsoFullstackDeveloper\C#\AbstraindoUmRPG\obj\Debug\net5.0\AbstraindoUmRPG.csproj.CoreCompileInputs.cache
+C:\Users\francisléia\Desktop\DIO\Bootcamp\ImpulsoFullstackDeveloper\C#\AbstraindoUmRPG\obj\Debug\net5.0\AbstraindoUmRPG.dll
+C:\Users\francisléia\Desktop\DIO\Bootcamp\ImpulsoFullstackDeveloper\C#\AbstraindoUmRPG\obj\Debug\net5.0\ref\AbstraindoUmRPG.dll
+C:\Users\francisléia\Desktop\DIO\Bootcamp\ImpulsoFullstackDeveloper\C#\AbstraindoUmRPG\obj\Debug\net5.0\AbstraindoUmRPG.pdb
+C:\Users\francisléia\Desktop\DIO\Bootcamp\ImpulsoFullstackDeveloper\C#\AbstraindoUmRPG\obj\Debug\net5.0\AbstraindoUmRPG.genruntimeconfig.cache
