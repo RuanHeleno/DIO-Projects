@@ -1,0 +1,15 @@
+<mat-card>
+    <mat-card-header>
+        <img mat-card-image src='{{"assets/images/" + livro.img + ".jpg"}}' alt="" width="100%">
+        <mat-card-title>{{ livro.name }}</mat-card-title>
+        <mat-card-subtitle>{{ livro.category }}</mat-card-subtitle>
+    </mat-card-header>
+    <mat-card-content>
+        <p>{{ livro.quantity }}</p>
+        <p>{{ livro.price | currency:'BRL' }}</p>
+    </mat-card-content>
+    <mat-card-actions>
+        <button mat-flat-button color="primary">Comprar</button>
+        <button mat-flat-button color="basic">Detalhes</button>
+    </mat-card-actions>
+</mat-card>

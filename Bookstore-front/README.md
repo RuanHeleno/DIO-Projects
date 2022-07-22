@@ -1,6 +1,6 @@
-# ABSTRAINDO UM RPG
+# BOOKSTORE FRONT
 
-This is my project: Abstraindo um RPG from [DIO](https://web.dio.me)
+This is my project: Bookstore Front from [DIO](https://web.dio.me)
 
 ## Table of contents
 
@@ -15,17 +15,18 @@ This is my project: Abstraindo um RPG from [DIO](https://web.dio.me)
 
 ### The project
 
-- Create a RPG Game base with C#
+- Create a Bookstore Front utilizing Angular and API consuming.
 
 ### Features
 
-- Fight with a enemy just for fun :)
+- List all books in the bookstore API
+- Filter books by quantity
 
 ## Process
 
 ### Built with
 
-- [C#](https://docs.microsoft.com/pt-br/dotnet/csharp/)
+- [Angular](https://angular.io)
 
 ## Author
 
