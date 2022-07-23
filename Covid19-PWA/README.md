@@ -1,14 +1,23 @@
-# Getting Started with Create React App
+# COVID19 PWA
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is my project: Covid19 PWA from [DIO](https://web.dio.me)
 
-## Demo
+## Table of contents
 
-https://covid19inworld.netlify.app
+- [Overview](#overview)
+  - [The project](#the-project)
+  - [Features](#features)
+  - [Preview](#preview)
+  - [Demo](#demo)
+- [Process](#process)
+  - [Built with](#built-with)
+- [Author](#author)
 
-## About project
+## Overview
 
-This repository was created in order to show how we can create a frontend application with reusable components.
+### The project
+
+System to know some datas related to Covid19 consuming an API.
 
 ### Features
 
@@ -16,11 +25,21 @@ This repository was created in order to show how we can create a frontend applic
 
 ### Preview
 
-Print of the finished project.
+![project](./src/assets/images/Covid19inWorld.png)
 
-![plot](./src/assets/images/Covid19inWorld.png)
+### Demo
 
-### Libraries used
+https://covid19inworld.netlify.app
 
-- [styled-components](https://styled-components.com)
+## Process
+
+### Built with
+
+- [React.Js](https://en.reactjs.org)
 - [material ui](https://mui.com)
+- [prop-types](https://www.npmjs.com/package/prop-types)
+
+## Author
+
+- [Portfolio](https://ruanheleno.github.io)
+- [LinkedIn](https://www.linkedin.com/in/ruanheleno/)

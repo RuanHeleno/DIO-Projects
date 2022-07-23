@@ -1,22 +1,27 @@
-# Login Screen League of Legends
+# Instagram Initial Page
 
-This is a Login Screen based on League of Legends and
+This is my project: Instagram Initial Page from [DIO](https://web.dio.me)
 
 ## Table of contents
 
 - [Overview](#overview)
-  - [Screenshot](#screenshot)
-- [My process](#my-process)
+  - [The project](#the-project)
+  - [Preview](#preview)
+- [Process](#process)
   - [Built with](#built-with)
 - [Author](#author)
 
 ## Overview
 
-### Screenshot
+### The project
+
+- Sample Instagram Initial Page
+
+### Preview
 
 ![Project](./images/project.png)
 
-## My process
+## Process
 
 ### Built with
 

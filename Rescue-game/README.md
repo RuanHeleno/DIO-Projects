@@ -1,12 +1,23 @@
 # Rescue Game
 
-## Demo
+This is my project: Rescue Game from [DIO](https://web.dio.me)
 
-https://rescuegame.netlify.app
+## Table of contents
 
-## About project
+- [Overview](#overview)
+  - [The project](#the-project)
+  - [Features](#features)
+  - [Preview](#preview)
+  - [Demo](#demo)
+- [Process](#process)
+  - [Built with](#built-with)
+- [Author](#author)
 
-A Game made to show about JQuery Collision and a little of HTML5, CSS3 and Javascript
+## Overview
+
+### The project
+
+- A Game made to show about JQuery Collisions
 
 ### Features
 
@@ -14,10 +25,22 @@ A Game made to show about JQuery Collision and a little of HTML5, CSS3 and Javas
 
 ### Preview
 
-Print of the finished project.
+![Project](./imgs/RescueGame.png)
 
-![plot](./imgs/RescueGame.png)
+### Demo
 
-### Libraries used
+[RescueGame](https://rescuegame.netlify.app)
 
+## Process
+
+### Built with
+
+- [HTML5](https://www.w3schools.com/html/)
+- [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+- [Javascript](https://www.javascript.com)
 - [JQuery](https://jquery.com)
+
+## Author
+
+- [Portfolio](https://ruanheleno.github.io)
+- [LinkedIn](https://www.linkedin.com/in/ruanheleno/)

@@ -1,11 +1,12 @@
 # GAMES CATALOG
 
-This is my project: Games Catalog
+This is my project: Games Catalog from [DIO](https://web.dio.me)
 
 ## Table of contents
 
 - [Overview](#overview)
   - [The project](#the-project)
+  - [Features](#features)
 - [Process](#Process)
   - [Built with](#built-with)
 - [Author](#author)
@@ -15,6 +16,11 @@ This is my project: Games Catalog
 ### The project
 
 - Create a Games Catalog with .Dotnet 5
+
+### Features
+
+- List all Games
+- List a Game by id
 
 ## Process
 

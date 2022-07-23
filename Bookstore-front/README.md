@@ -7,7 +7,7 @@ This is my project: Bookstore Front from [DIO](https://web.dio.me)
 - [Overview](#overview)
   - [The project](#the-project)
   - [Features](#features)
-- [Process](#Process)
+- [Process](#process)
   - [Built with](#built-with)
 - [Author](#author)
 

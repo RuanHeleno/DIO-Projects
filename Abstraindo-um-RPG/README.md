@@ -7,7 +7,7 @@ This is my project: Abstraindo um RPG from [DIO](https://web.dio.me)
 - [Overview](#overview)
   - [The project](#the-project)
   - [Features](#features)
-- [Process](#Process)
+- [Process](#process)
   - [Built with](#built-with)
 - [Author](#author)
 
@@ -15,7 +15,7 @@ This is my project: Abstraindo um RPG from [DIO](https://web.dio.me)
 
 ### The project
 
-- Create a RPG Game base with C#
+- Create a sample RPG Game with C#
 
 ### Features
 

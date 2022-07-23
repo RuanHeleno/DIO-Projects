@@ -1,6 +1,6 @@
 # URL SHORTENER
 
-This is my project to the [URL SHORTENER from DIO](https://web.dio.me/project/construindo-encurtador-de-url). 
+This is my project: URL Shortener from [DIO](https://web.dio.me)
 
 ## Table of contents
 

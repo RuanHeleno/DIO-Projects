@@ -1,12 +1,13 @@
 # MOVIES CATALOG
 
-This is my project: Movies Catalog
+This is my project: Movies Catalog from [DIO](https://web.dio.me)
 
 ## Table of contents
 
 - [Overview](#overview)
   - [The project](#the-project)
-- [Process](#Process)
+  - [features](#features)
+- [Process](#process)
   - [Built with](#built-with)
 - [Author](#author)
 
@@ -15,6 +16,11 @@ This is my project: Movies Catalog
 ### The project
 
 - Create a Movies Catalog with .Dotnet 5
+
+### Features
+
+- List all Movies
+- List a Movie by id
 
 ## Process
 

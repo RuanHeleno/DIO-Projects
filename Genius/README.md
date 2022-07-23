@@ -1,23 +1,30 @@
 # Genius Web Game
 
-This is my project [Genius](https://GeniusWebGame.netlify.app)
+This is my project: Genius Web Game from [DIO](https://web.dio.me)
 
 ## Table of contents
 
 - [Overview](#overview)
   - [The project](#the-project)
-  - [Screenshot](#screenshot)
-- [Process](#Process)
+  - [Features](#features)
+  - [Preview](#preview)
+- [Process](#process)
   - [Built with](#built-with)
 - [Author](#author)
+
+[Genius](https://GeniusWebGame.netlify.app)
 
 ## Overview
 
 ### The project
 
-- Create a Genius Web Game with HTML5, CSS3 and Javascript
+- Create a Genius Web Game
 
-### Screenshot
+### Features
+
+- You can play the game and have some fun :)
+
+### Preview
 
 ![Project](./src/Images/project.png)
 

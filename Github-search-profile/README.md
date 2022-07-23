@@ -1,16 +1,23 @@
-# Getting Started with Create React App
+# Github Search Profile
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is my project: Github Search Profile from [DIO](https://web.dio.me)
 
-## Demo
+## Table of contents
 
-https://githubsearchprofiles.netlify.app
+- [Overview](#overview)
+  - [The project](#the-project)
+  - [Features](#features)
+  - [Preview](#preview)
+  - [Demo](#demo)
+- [Process](#process)
+  - [Built with](#built-with)
+- [Author](#author)
 
-## About project
+## Overview
 
-This repository was created in order to show how we can create a frontend application with reusable components.
+### The project
 
-We will create an application using the github public api.
+- Github Search Profile 
 
 ### Features
 
@@ -20,12 +27,22 @@ We will create an application using the github public api.
 
 ### Preview
 
-Print of the finished project.
+![Project](./image/GithubSearchProfile.png)
 
-![plot](./image/GithubSearchProfile.png)
+### Demo
 
-### Libraries used
+[GithubSearchProfile](https://githubsearchprofiles.netlify.app)
 
+## Process
+
+### Built with
+
+- [React.Js](https://en.reactjs.org)
 - [axios](https://www.npmjs.com/package/axios)
 - [react-tabs](https://www.npmjs.com/package/react-tabs)
 - [styled-components](https://styled-components.com/)
+
+## Author
+
+- [Portfolio](https://ruanheleno.github.io)
+- [LinkedIn](https://www.linkedin.com/in/ruanheleno/)

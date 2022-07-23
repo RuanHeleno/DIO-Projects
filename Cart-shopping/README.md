@@ -1,28 +1,47 @@
-# Getting Started with Create React App
+# CART SHOPPING
 
-This project was bootstrapped with Create React App.
+This is my project: Cart Shopping from [DIO](https://web.dio.me)
 
-## Demo
+## Table of contents
 
-https://cartshoppingsystem.netlify.app
+- [Overview](#overview)
+  - [The project](#the-project)
+  - [Features](#features)
+  - [Preview](#preview)
+  - [Demo](#demo)
+- [Process](#process)
+  - [Built with](#built-with)
+- [Author](#author)
 
-## About project
+## Overview
 
-This repository was created in order to show how we can create a frontend application with reusable components.
+### The project
+
+A online store created with React.Js.
 
 ### Features
 
 - Products ordered by category
 - Cart system with Local Storage
-- Add and remove buttons
+- Add and remove products
 
 ### Preview
 
-Print of the finished project.
+![project](./src/img/CartShopping.png)
 
-![plot](./src/img/CartShopping.png)
+### Demo
 
-### Libraries used
+https://cartshoppingsystem.netlify.app
 
+## Process
+
+### Built with
+
+- [React.Js](https://en.reactjs.org)
 - [material ui](https://mui.com)
 - [prop-types](https://www.npmjs.com/package/prop-types)
+
+## Author
+
+- [Portfolio](https://ruanheleno.github.io)
+- [LinkedIn](https://www.linkedin.com/in/ruanheleno/)

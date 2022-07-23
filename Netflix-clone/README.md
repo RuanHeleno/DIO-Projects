@@ -1,13 +1,14 @@
 # NETFLIX CLONE
 
-This is my project [SOCIALFLIX](https://socialflix.netlify.app)
+This is my project: Netflix Clone from from [DIO](https://web.dio.me) 
 
 ## Table of contents
 
 - [Overview](#overview)
   - [The project](#the-project)
-  - [Screenshot](#screenshot)
-- [Process](#Process)
+  - [Preview](#preview)
+  - [Demo](#demo)
+- [Process](#process)
   - [Built with](#built-with)
 - [Author](#author)
 
@@ -15,11 +16,15 @@ This is my project [SOCIALFLIX](https://socialflix.netlify.app)
 
 ### The project
 
-- Create a Netflix FrontEnd Clone with HTML5, CSS3 and Javascript
+- Create a Netflix FrontEnd Clone
 
-### Screenshot
+### Preview
 
 ![Project](./src/img/project.png)
+
+### Demo
+
+[SocialFlix](https://socialflix.netlify.app)
 
 ## Process
 
